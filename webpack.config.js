@@ -8,7 +8,7 @@ module.exports = {
   mode: mode ? 'development' : 'production',
   entry: './src/index.js',
   output: {
-    filename: 'index.js',
+    filename: 'bundle.js',
     path: __dirname + '/public'
   },
   devServer: {

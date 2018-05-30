@@ -3,7 +3,7 @@
 - Webpack v4
 - SASS/CSS
 - Webpack-dev-server
-- Minimizers to Javascript & CSS
+- Minimizer for Javascript & CSS
 - Img loader
 - Cross-env (to set the variable NODE_ENV)
 
